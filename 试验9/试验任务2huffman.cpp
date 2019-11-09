@@ -1,3 +1,8 @@
+/*有一个英文句子 str=“The following code computes the 
+intersection of two arrays.”，请统计各个字符出现的次数，以其
+为频率构造对应的哈夫曼编码，将该英文句子进行编码以得到
+enstr。编写程序实现上述功能。*/
+
 #include <iostream>
 #include <cstdio>
 #include <algorithm>
